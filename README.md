@@ -5,7 +5,17 @@ This is a simple Image compressor, it can let you downscale your phone images to
 
 [link to exe](https://mega.nz/file/gyV0yCxD#Xe-JyOu_5--u39Ue7Ohw8wyXkk_efL5NhcFMqy4f7ps)
 
-# Instructions
+# Instrucciones (ES)
+
+![referencia](https://github.com/Alextor121/Compresor_imagenes_walfu/blob/main/Executable/instrucciones.png?raw=true)
+
+1. Seleccione la carpeta donde están sus imágenes **.jpg** (el programa está diseñado para procesar imágenes por lotes, pero también funciona con una sola imagen).
+2. Seleccione la carpeta donde desea que se guarden sus imágenes **comprimidas**.
+3. Establezca qué porcentaje de la resolución original desea conservar (un valor menor significa que obtendrá una foto más pequeña) (el valor que me ha funcionado mejor para mantener una buena calidad es del 60%).
+4. Establezca la compresión de la salida (un valor mayor significa una compresión más fuerte) (el valor que me ha funcionado mejor es alrededor del 40%).
+5. Ejecute el programa. Comprimirá todas las imágenes **.jpg** en la carpeta original.
+
+# Instructions (EN)
 
 ![referencia](https://github.com/Alextor121/Compresor_imagenes_walfu/blob/main/Executable/instrucciones.png?raw=true)
 
