@@ -7,4 +7,4 @@ This is a simple Image compressor, it can let you downscale your phone images to
 
 # Instructions
 
-![referencia](https://github.com/Alextor121/Compresor_imagenes_walfu/Executable/instrucciones.png?raw=true)
+![referencia](https://github.com/Alextor121/Compresor_imagenes_walfu/main/Executable/instrucciones.png?raw=true)
