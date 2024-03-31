@@ -3,7 +3,7 @@ This is a simple Image compressor, it can let you downscale your phone images to
 
 # Download the .exe file
 
-[link to exe](https://mega.nz/file/hv1G2aaZ#MQADrvVnUOjKYvj0e0GyjjxIgCqRiY7mlFtSCzyH-IY)
+[link to exe](https://mega.nz/file/gyV0yCxD#Xe-JyOu_5--u39Ue7Ohw8wyXkk_efL5NhcFMqy4f7ps)
 
 # Instructions
 
